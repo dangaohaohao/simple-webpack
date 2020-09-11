@@ -1,0 +1,6 @@
+# 文件夹
+/node_modules
+/dist
+
+# 文件
+.DS_Store

@@ -1,5 +1,5 @@
 import {
     greeting
-} from './greeting';
+} from './greeting.js';
 
 document.write(greeting('yuzhenliu'));
